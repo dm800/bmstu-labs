@@ -1,0 +1,4 @@
+./task1.sh "C:\msys64\home\limon\lab7\waitingroom.py" 1
+./task2.sh "C:\msys64\home\limon\lab7\scripts"
+./task3.py 2 40
+./task4.py
